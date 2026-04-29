@@ -1,4 +1,4 @@
-package com.example.multi_screen
+package com.example.deploy_app
 
 import io.flutter.embedding.android.FlutterActivity
 

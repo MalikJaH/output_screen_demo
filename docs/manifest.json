@@ -1,6 +1,6 @@
 {
-    "name": "multi_screen",
-    "short_name": "multi_screen",
+    "name": "deploy_app",
+    "short_name": "deploy_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
