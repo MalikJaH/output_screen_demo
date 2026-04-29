@@ -1,4 +1,4 @@
-import 'package:multi_screen/output_screen.dart';
+import 'package:deploy_app/output_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
